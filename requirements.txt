@@ -1,0 +1,7 @@
+click
+PyPDF2
+python-pptx
+openai
+python-dotenv
+pdf2image
+rich
